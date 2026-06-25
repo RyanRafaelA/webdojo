@@ -12,7 +12,7 @@ describe("Studio", () => {
     cy.contains("button", "Entrar").click();
     cy.get('[data-cy="logged-user"]').should(
       "have.text",
-      "Fernando PapitoOlá QA, esse é o seu Dojo para aprender Automação de Testes.Emailpapito@webdojo.comData de acesso22/06/2026Instagram@qapapito",
+      "Fernando PapitoOlá QA, esse é o seu Dojo para aprender Automação de Testes.Emailpapito@webdojo.comData de acesso25/06/2026Instagram@qapapito",
     );
   });
 });
