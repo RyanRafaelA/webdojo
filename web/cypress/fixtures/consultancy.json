@@ -1,0 +1,42 @@
+{
+    "personal": {
+      "name": "Fernando Papito",
+      "email": "papito@teste.com.br",
+      "phone": "11 99999-1000",
+      "consultancyType": "Individual",
+      "personType": "cpf",
+      "document": "20534430066",
+      "discoveryChannels": [
+        "Instagram",
+        "LinkedIn",
+        "Udemy",
+        "YouTube",
+        "Indicação de Amigo"
+      ],
+      "file": "./cypress/fixtures/teste.pdf",
+      "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "techs": [
+        "Cypress",
+        "Selenium",
+        "WebDriverIO",
+        "Playwright",
+        "Robot Framework"
+      ],
+      "terms": true
+    },
+    "company": {
+      "name": "Fernando Papito",
+      "email": "papito@teste.com.br",
+      "phone": "11 99999-1000",
+      "consultancyType": "In Company",
+      "personType": "cnpj",
+      "document": "84207644000145",
+      "discoveryChannels": ["LinkedIn"],
+      "file": "./cypress/fixtures/teste.pdf",
+      "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "techs": ["Cypress"],
+      "terms": true
+    }
+}
